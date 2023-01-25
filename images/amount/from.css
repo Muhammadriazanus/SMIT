@@ -1,0 +1,21 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+.contanier ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    color: white;
+    background-color: black;
+    padding: 30px;
+    word-spacing: 20px;
+    background-image: url('https://www.apple.com/iphone-14/');
+
+}
+.item{
+    /* margin: 10px; */
+    /* padding-right: 20px;
+     */
+     margin: auto;
+     background-color: black;
+     padding-right: 90px;
+     word-spacing: 5px;
+}
